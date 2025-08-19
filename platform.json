@@ -82,7 +82,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "file://D:/PlatformIO/packages/framework-arduinounihiker"
+      "version": "https://github.com/wxzed/framework-arduinounihiker"
     },
     "framework-espidf": {
       "type": "framework",
