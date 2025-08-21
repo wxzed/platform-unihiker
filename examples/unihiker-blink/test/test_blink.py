@@ -64,9 +64,9 @@ def test_platformio_config():
         content = f.read()
     
     required_configs = [
-        "platform = file:///G:/platform-unihiker",
+        "platform = file:///D:/PlatformIO/platforms/unihiker",
         "framework = arduino",
-        "board = esp32dev",
+        "board = unihiker_k10",
         "LED_BUILTIN=2"
     ]
     
